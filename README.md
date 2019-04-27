@@ -26,6 +26,7 @@ Use the following files preferably in this order:
 Note: For StatefulSet, in Minikube, you can dynamically provision the persistent volume and hence don't need to create the storage explicitly.
 
 # References
-Kubernetes Documentation: https://kubernetes.io/docs/home/
-PostgreSQL cluster using StatefulSets: https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets
-Using Kubernetes to Deploy PostgreSQL: https://severalnines.com/blog/using-kubernetes-deploy-postgresql
+
+* Kubernetes Documentation: https://kubernetes.io/docs/home/
+* PostgreSQL cluster using StatefulSets: https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets
+* Using Kubernetes to Deploy PostgreSQL: https://severalnines.com/blog/using-kubernetes-deploy-postgresql
